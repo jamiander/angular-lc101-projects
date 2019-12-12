@@ -1,0 +1,8 @@
+.movies h3 {
+  color: green;
+  text-align: center;
+}
+.movies ol {
+  color: red;
+  font-size: 25px;
+}
